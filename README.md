@@ -1,0 +1,1 @@
+# base-09_django_media_and_static
